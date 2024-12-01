@@ -19,12 +19,12 @@
 
 </div>
 
-<a href="https://github.com/Kaweees/KiwiCPP">
+<a href="https://github.com/Kaweees/kiwiparser">
   <img alt="C++ Logo" src="assets/img/cpp.svg" align="right" width="150">
 </a>
 
 <div align="left">
-  <h1><em><a href="https://github.com/Kaweees/KiwiCPP">~KiwiCPP</a></em></h1>
+  <h1><em><a href="https://github.com/Kaweees/kiwiparser">~kiwiparser</a></em></h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -67,8 +67,8 @@ To get a local copy of the project up and running on your machine, follow these 
 1. Clone the project repository
 
    ```sh
-   git clone https://github.com/Kaweees/KiwiCPP.git
-   cd KiwiCPP
+   git clone https://github.com/Kaweees/kiwiparser.git
+   cd kiwiparser
    ```
 
 2. Create a fresh build directory and navigate to it
@@ -78,7 +78,7 @@ To get a local copy of the project up and running on your machine, follow these 
    cd build
    ```
 
-3. 
+3.
    ```sh
    clear && cmake -S .. -B . -DCMAKE_BUILD_TYPE=Debug
    ```
@@ -109,12 +109,12 @@ The source code for my website is distributed under the terms of the GNU General
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/KiwiCPP.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kaweees/KiwiCPP/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kaweees/KiwiCPP.svg?style=for-the-badge
-[forks-url]: https://github.com/Kaweees/KiwiCPP/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kaweees/KiwiCPP.svg?style=for-the-badge
-[stars-url]: https://github.com/Kaweees/KiwiCPP/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/kiwiparser.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kaweees/kiwiparser/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kaweees/kiwiparser.svg?style=for-the-badge
+[forks-url]: https://github.com/Kaweees/kiwiparser/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kaweees/kiwiparser.svg?style=for-the-badge
+[stars-url]: https://github.com/Kaweees/kiwiparser/stargazers
 
 <!-- MARKDOWN SHIELD BAGDES & LINKS -->
 <!-- https://github.com/Ileriayo/markdown-badges -->

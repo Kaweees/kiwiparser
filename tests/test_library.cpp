@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 
-#include <kiwicpp/kiwicpp.hpp>
-using namespace kiwicpp;
+#include <kiwiparser/kiwiparser.hpp>
+using namespace kiwiparser;
 
 TEST(LibraryTest, Add) {
   // Consider adding more test cases

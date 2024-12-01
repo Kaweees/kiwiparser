@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14 FATAL_ERROR) # Set the minimum required version of CMake
 
-project(kiwicpp VERSION 1.0.0 LANGUAGES CXX)
+project(kiwiparser VERSION 1.0.0 LANGUAGES CXX)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 17)
