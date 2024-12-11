@@ -19,12 +19,12 @@
 
 </div>
 
-<a href="https://github.com/Kaweees/kiwiparser">
+<a href="https://github.com/Kaweees/kiwiLang">
   <img alt="C++ Logo" src="assets/img/cpp.svg" align="right" width="150">
 </a>
 
 <div align="left">
-  <h1><em><a href="https://github.com/Kaweees/kiwiparser">~kiwiparser</a></em></h1>
+  <h1><em><a href="https://github.com/Kaweees/kiwiLang">~kiwiLang</a></em></h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -57,7 +57,6 @@ Before attempting to build this project, make sure you have [GNU Make](https://w
 
 Additionally, if you wish to utilize the GPU acceleration features, you will need to have [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) or [Apple Metal](https://developer.apple.com/metal/cpp/) installed on your machine.
 
-
 you will need a C++ compiler that supports C++13, and a CUDA compatible GPU if you wish to use the CUDA acceleration features.
 
 ### Installation
@@ -67,11 +66,12 @@ To get a local copy of the project up and running on your machine, follow these 
 1. Clone the project repository
 
    ```sh
-   git clone https://github.com/Kaweees/kiwiparser.git
+   git clone https://github.com/Kaweees/kiwiLang.git
    cd kiwiparser
    ```
 
 2. Create a fresh build directory and navigate to it
+
    ```sh
    rm -rf build
    mkdir build
@@ -79,11 +79,13 @@ To get a local copy of the project up and running on your machine, follow these 
    ```
 
 3.
+
    ```sh
    clear && cmake -S .. -B . -DCMAKE_BUILD_TYPE=Debug
    ```
 
 4. Build the project
+
    ```sh
    cmake --build ..
    ```
@@ -109,12 +111,12 @@ The source code for my website is distributed under the terms of the GNU General
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/kiwiparser.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kaweees/kiwiparser/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kaweees/kiwiparser.svg?style=for-the-badge
-[forks-url]: https://github.com/Kaweees/kiwiparser/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kaweees/kiwiparser.svg?style=for-the-badge
-[stars-url]: https://github.com/Kaweees/kiwiparser/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/kiwiLang.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kaweees/kiwiLang/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kaweees/kiwiLang.svg?style=for-the-badge
+[forks-url]: https://github.com/Kaweees/kiwiLang/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kaweees/kiwiLang.svg?style=for-the-badge
+[stars-url]: https://github.com/Kaweees/kiwiLang/stargazers
 
 <!-- MARKDOWN SHIELD BAGDES & LINKS -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
